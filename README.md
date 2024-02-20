@@ -1,3 +1,3 @@
-# project-template
+# tcg-prototype
 
-A project-template to build Kotlin apps with Gradle and Ktor
+A tcg-prototype

@@ -7,7 +7,7 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "0.5.0"
 }
 
-rootProject.name = "project-template"
+rootProject.name = "tcg-prototype"
 include(
     "app",
     "libs:common-arrow",
